@@ -1,0 +1,12 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <!--设置状态栏下显示内容-->
+        <item name="android:windowTranslucentStatus">true</item>
+        <!--设置透明背景-->
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+
+</resources>

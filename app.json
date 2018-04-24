@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "sdkVersion": "25.0.0",
+    "name": "创购国际",
+    "version": "1.0.0",
+    "slug": "your-app-slug",
+    "icon": "./src/image/icon/icon.png",
+    "ios": {
+      "bundleIdentifier": "com.yourcompany.yourappname"
+    },
+    "android": {
+      "package": "com.yourcompany.yourappname"
+    },
+    "splash": {
+      "image": "./src/image/lion.png",
+      "resizeMode": "cover"
+    }
+  },
+  "name": "AwesomeProject",
+  "displayName": "创购国际"
+}
